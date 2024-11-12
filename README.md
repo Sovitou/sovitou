@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm am Sovitou</h1>
 <h3 align="center">A passionate front-end web developer from Cambodia</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sovitou&label=Profile%20views&color=0e75b6&style=flat" alt="sovitou" /> </p>
 
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
