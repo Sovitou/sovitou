@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm am Sovitou</h1>
 <h3 align="center">A passionate front-end web developer from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sovitou&label=Profile%20views&color=0e75b6&style=flat" alt="sovitou" /> </p>
 
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
