@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm am Sovitou</h1>
 <h3 align="center">A passionate front-end web developer from Cambodia</h3>
-<img align="right" src="[https://www.behance.net/gallery/179531059/Kirbys-Chill-Land](https://www.deviantart.com/pixeljeff/art/Coding-990517671)">
+<img align="right" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sovitou&label=Profile%20views&color=0e75b6&style=flat" alt="sovitou" /> </p>
 
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
