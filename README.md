@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
 
-- 🌱 I’m currently learning **React.js and Tailwind CSS**
+- 🌱 I’m currently learning **React.js , Tailwind CSS, and Framer Motion**
 
 - 📫 How to reach me **khemsovitou@gmail.com**
 
