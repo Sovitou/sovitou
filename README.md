@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&width=435&lines=Hi+guys+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+VITOU+" alt="Typing SVG" /></a>
-<h3 align="center">A passionate front-end web developer from Cambodia</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&width=400&lines=Hi+guys+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+VITOU+" alt="Typing SVG" /></a>
+<hr>
+<h3 align="center">A passionate front-end developer from Cambodia</h3>
 <img align="right" alt="Coding" width="400" 
      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
 >
