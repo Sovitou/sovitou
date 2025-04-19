@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
 
-- 🌱 I’m currently learning **React.js , Tailwind CSS, and Framer Motion**
+- 🌱 I’m currently learning Backend Development with **Express.js , MySQL, and Sequelize ORM**
 
 - 📫 How to reach me **khemsovitou@gmail.com**
 
