@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img alt="Coding" width="450" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" src="https://res.cloudinary.com/dgpv3tawm/image/upload/v1747268799/9070324cdfc07c68d60eed0c39e77573_zwxplg.gif"/>
+  <img alt="Coding" width="500" height = "300" style="border-radius: 10px;" src="https://res.cloudinary.com/dgpv3tawm/image/upload/v1747268799/9070324cdfc07c68d60eed0c39e77573_zwxplg.gif"/>
 </p>
 
 <!-- Typing SVG -->
@@ -10,12 +10,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&width=400&lines=Hi+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Sovitou+" alt="Typing SVG" />
   </a>
 </p>
+<hr>
 <br>
-
 <!-- About Me -->
+<p>
+  
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
 - 🌱 I’m currently learning Backend Development with **JavaScript/TypeScript** and **SQL/NoSQL Database**
 - 📫 How to reach me **khemsovitou@gmail.com**
+</p>
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
