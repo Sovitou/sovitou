@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&width=400&lines=Hi+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Sovitou+" alt="Typing SVG" />
   </a>
 </p>
-<hr>
+<br>
 
 <!-- About Me -->
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
@@ -18,8 +18,8 @@
 - 📫 How to reach me **khemsovitou@gmail.com**
 
 <!-- Social Media -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/khem sovitou" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khem sovitou" height="30" width="40" />
   </a>
@@ -27,11 +27,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khem sovitou" height="30" width="40" />
   </a>
 </p>
+<br>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
-<table align="center" style="width: 90%; border-collapse: collapse;">
+<table align="left" style="width: 100%; border-collapse: collapse;">
   <tr>
     <th>Design Tools</th>
     <th>Frontend</th>
