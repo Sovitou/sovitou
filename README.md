@@ -14,7 +14,7 @@
 
 <!-- About Me -->
 - 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
-- 🌱 I’m currently learning Backend Development with **JavaScript/TypeScript** and **SQL/NoSQL**
+- 🌱 I’m currently learning Backend Development with **JavaScript/TypeScript** and **SQL/NoSQL Database**
 - 📫 How to reach me **khemsovitou@gmail.com**
 
 <!-- Social Media -->
