@@ -5,10 +5,12 @@
 </p>
 
 <!-- Typing SVG -->
+<!---
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&width=400&lines=Hi+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Sovitou+" alt="Typing SVG" />
   </a>
+  -->
 </p>
 <hr>
 <br>
