@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img alt="Coding" width="500" height = "300" style="border-radius: 10px;" src="https://res.cloudinary.com/dgpv3tawm/image/upload/v1747268799/9070324cdfc07c68d60eed0c39e77573_zwxplg.gif"/>
+  <img alt="Animation" width="1200" height = "250" src="https://res.cloudinary.com/dgpv3tawm/image/upload/v1747270926/dc3ecdab0fa15f3bd29d1e20718648e6_udw15q.gif"/>
 </p>
 
 <!-- Typing SVG -->
