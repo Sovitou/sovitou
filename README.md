@@ -16,8 +16,7 @@
 <!-- About Me -->
 <p>
   
-- 🔭 I’m currently working on [SerkSa Project](https://serksa.tech/)
-- 🌱 I’m currently learning Backend Development with **JavaScript/TypeScript** and **SQL/NoSQL Database**
+- 🔭 I’m currently working at [Polymer Invoice](https://www.polymerinvoice.com/)
 - 📫 How to reach me **khemsovitou@gmail.com**
 </p>
 
