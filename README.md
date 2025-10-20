@@ -16,19 +16,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sovitou.Sovitou&"  />
-</div>
-
-###
-
-<h4 align="center">Hey there, I'm Sovitou from Cambodia 🇰🇭 👋</h4>
-
-###
-
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
