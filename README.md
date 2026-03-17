@@ -25,12 +25,6 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning about Full-Stack Development<br>- ⚡ In my free time, I play games and watch sports</p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
